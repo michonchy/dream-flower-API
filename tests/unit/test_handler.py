@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from dream_number import app
+from dream_flower import app
 
 
 def test_is_dream_flower():
